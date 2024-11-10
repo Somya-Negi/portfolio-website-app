@@ -1,0 +1,38 @@
+{
+  "files": {
+    "main.css": "/portfolio-website-app/static/css/main.d3455277.css",
+    "main.js": "/portfolio-website-app/static/js/main.07d5dc28.js",
+    "static/media/color-sharp.png": "/portfolio-website-app/static/media/color-sharp.bea361cfef80fefc2d1e.png",
+    "static/media/color-sharp2.png": "/portfolio-website-app/static/media/color-sharp2.c87586c6c2f549cb4aa6.png",
+    "static/media/header-img.png": "/portfolio-website-app/static/media/header-img.43781119684ae3bc584f.png",
+    "static/media/banner-bg.png": "/portfolio-website-app/static/media/banner-bg.cc1273af450504afe755.png",
+    "static/media/Project2.png": "/portfolio-website-app/static/media/Project2.471d641b51e931e3c87a.png",
+    "static/media/Project5.png": "/portfolio-website-app/static/media/Project5.05b0f0f068335d5e06e4.png",
+    "static/media/CentraNo2-Bold.ttf": "/portfolio-website-app/static/media/CentraNo2-Bold.2faff7f7d3fc92a2fcd9.ttf",
+    "static/media/CentraNo2-Medium.ttf": "/portfolio-website-app/static/media/CentraNo2-Medium.f94be5b326d78bb32b95.ttf",
+    "static/media/CentraNo2-Book.ttf": "/portfolio-website-app/static/media/CentraNo2-Book.2b143fa4b734a3584043.ttf",
+    "static/media/Project4.png": "/portfolio-website-app/static/media/Project4.b8fe93137a1d0ab919d2.png",
+    "static/media/project-img1.png": "/portfolio-website-app/static/media/project-img1.58131e2b96a343923239.png",
+    "static/media/footer-bg.png": "/portfolio-website-app/static/media/footer-bg.7bd67c0f73571d0acc02.png",
+    "static/media/Project3.png": "/portfolio-website-app/static/media/Project3.30dc8ea0de294a106be9.png",
+    "static/media/contact-img.svg": "/portfolio-website-app/static/media/contact-img.87eac2b29352fa01abb2f9510ef6ac7e.svg",
+    "static/media/revicons.eot": "/portfolio-website-app/static/media/revicons.a77de540a38981833f9e.eot",
+    "static/media/revicons.ttf": "/portfolio-website-app/static/media/revicons.57fd05d4ae650374c8de.ttf",
+    "static/media/revicons.woff": "/portfolio-website-app/static/media/revicons.e8746a624ed098489406.woff",
+    "static/media/meter2.svg": "/portfolio-website-app/static/media/meter2.1b8f416eccd1ee162218b8528a1c5cdc.svg",
+    "static/media/meter1.svg": "/portfolio-website-app/static/media/meter1.c4085ff859afbd8488e9da47d4953850.svg",
+    "static/media/meter3.svg": "/portfolio-website-app/static/media/meter3.2201f7e4df22bc4b08180210474f28cc.svg",
+    "static/media/nav-icon3.svg": "/portfolio-website-app/static/media/nav-icon3.08b285abb8e118b52637efa5d65c5367.svg",
+    "index.html": "/portfolio-website-app/index.html",
+    "static/media/nav-icon1.svg": "/portfolio-website-app/static/media/nav-icon1.721d5414c26365f117e71d46b6641cb2.svg",
+    "static/media/arrow2.svg": "/portfolio-website-app/static/media/arrow2.3d9522b6fd8f2464b7200ebf2c1bb09a.svg",
+    "static/media/arrow1.svg": "/portfolio-website-app/static/media/arrow1.0c89b5b635adf255c2822c630aaa6ccf.svg",
+    "static/media/nav-icon2.svg": "/portfolio-website-app/static/media/nav-icon2.178f497aa17b70c42df2a1a8c926ed01.svg",
+    "main.d3455277.css.map": "/portfolio-website-app/static/css/main.d3455277.css.map",
+    "main.07d5dc28.js.map": "/portfolio-website-app/static/js/main.07d5dc28.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.d3455277.css",
+    "static/js/main.07d5dc28.js"
+  ]
+}
